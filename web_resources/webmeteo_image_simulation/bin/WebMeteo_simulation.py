@@ -8,7 +8,7 @@ from kafka import KafkaConsumer
 from fluent import sender
 from fluent import event
 
-time_schedule = 60000
+time_schedule = 40000
 path_save = "images/"
 
 topic = os.getenv("KAFKA_TOPIC", "restart_request")

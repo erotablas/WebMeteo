@@ -1,476 +1,534 @@
-{"index": {"_id": "2022-06-17 11:04:00"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:04:00", "Temperature": 30, "Humidity": 39, "Wind": 6, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:04:30"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:04:30", "Temperature": 30, "Humidity": 39, "Wind": 6, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:05:01"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:05:01", "Temperature": 30, "Humidity": 39, "Wind": 6, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:05:31"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:05:31", "Temperature": 30, "Humidity": 39, "Wind": 6, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:06:02"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:06:02", "Temperature": 30, "Humidity": 39, "Wind": 6, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:06:32"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:06:32", "Temperature": 30, "Humidity": 39, "Wind": 6, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:07:03"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:07:03", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:07:35"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:07:35", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:08:06"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:08:06", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:08:36"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:08:36", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:09:07"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:09:07", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:09:37"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:09:37", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:10:08"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:10:08", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:10:38"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:10:38", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:11:09"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:11:09", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:11:39"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:11:39", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:12:10"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:12:10", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:12:40"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:12:40", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:13:11"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:13:11", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:13:42"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:13:42", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:14:12"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:14:12", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:14:43"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:14:43", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:15:13"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:15:13", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:15:44"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:15:44", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:16:14"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:16:14", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:16:45"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:16:45", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:17:15"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:17:15", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:17:47"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:17:47", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:18:21"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:18:21", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:18:52"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:18:52", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:19:22"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:19:22", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:19:53"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:19:53", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:20:23"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:20:23", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:20:55"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:20:55", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:21:26"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:21:26", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:21:56"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:21:56", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:22:27"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:22:27", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:22:57"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:22:57", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:23:28"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:23:28", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:23:58"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:23:58", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:24:29"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:24:29", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:25:00"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:25:00", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:25:30"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:25:30", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:26:01"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:26:01", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:26:32"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:26:32", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:27:03"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:27:03", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:27:33"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:27:33", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:28:04"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:28:04", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:28:35"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:28:35", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:29:05"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:29:05", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-17 11:29:38"}}
-{"City": "Catania", "Schedule": "2022-06-17 11:29:38", "Temperature": 28, "Humidity": 47, "Wind": 8, "Visibility": 10, "Pressure": 1017, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-19 14:31:01"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:31:01", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:31:31"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:31:31", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:33:34"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:33:34", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:33:34"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:33:34", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:34:04"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:34:04", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:34:35"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:34:35", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:35:05"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:35:05", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:35:36"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:35:36", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:36:06"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:36:06", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:36:37"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:36:37", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:37:07"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:37:07", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:37:38"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:37:38", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:38:08"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:38:08", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:38:39"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:38:39", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:39:09"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:39:09", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:39:40"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:39:40", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:40:10"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:40:10", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:40:41"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:40:41", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:41:11"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:41:11", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:41:42"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:41:42", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:42:13"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:42:13", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:50:21"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:50:21", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:50:51"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:50:51", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:51:22"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:51:22", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:51:52"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:51:52", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:52:22"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:52:22", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:52:53"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:52:53", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:53:23"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:53:23", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:53:54"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:53:54", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:54:24"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:54:24", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:54:55"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:54:55", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:55:26"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:55:26", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:55:57"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:55:57", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:56:27"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:56:27", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:56:58"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:56:58", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:57:28"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:57:28", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 14:57:59"}}
-{"City": "Catania", "Schedule": "2022-06-19 14:57:59", "Temperature": 28, "Humidity": 38, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:34:17"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:34:17", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:34:47"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:34:47", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:35:18"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:35:18", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:35:48"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:35:48", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:36:19"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:36:19", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:36:49"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:36:49", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:37:20"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:37:20", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-19 15:37:50"}}
-{"City": "Catania", "Schedule": "2022-06-19 15:37:50", "Temperature": 27, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": ""}
-{"index": {"_id": "2022-06-20 15:11:20"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:11:20", "Temperature": 28, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:11:50"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:11:50", "Temperature": 28, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:12:22"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:12:22", "Temperature": 28, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:12:56"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:12:56", "Temperature": 28, "Humidity": 50, "Wind": 11, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:13:28"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:13:28", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:14:05"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:14:05", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:14:36"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:14:36", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:15:08"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:15:08", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:15:40"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:15:40", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:16:14"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:16:14", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:16:45"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:16:45", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:17:44"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:17:44", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:18:17"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:18:17", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:18:47"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:18:47", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:19:29"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:19:29", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:20:13"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:20:13", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:20:48"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:20:48", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:21:52"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:21:52", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:22:23"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:22:23", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:22:53"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:22:53", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:23:24"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:23:24", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:23:54"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:23:54", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:24:25"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:24:25", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:24:56"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:24:56", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:25:26"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:25:26", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:25:58"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:25:58", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:26:28"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:26:28", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:27:14"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:27:14", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:27:45"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:27:45", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:28:49"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:28:49", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:29:55"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:29:55", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:30:36"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:30:36", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:31:09"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:31:09", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:31:39"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:31:39", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:32:10"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:32:10", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:33:10"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:33:10", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:33:40"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:33:40", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:34:11"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:34:11", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:34:44"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:34:44", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:35:15"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:35:15", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:35:46"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:35:46", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:36:16"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:36:16", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:36:47"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:36:47", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:37:17"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:37:17", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:37:54"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:37:54", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:38:38"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:38:38", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:39:09"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:39:09", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:39:39"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:39:39", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:40:10"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:40:10", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:40:42"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:40:42", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:41:17"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:41:17", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:41:48"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:41:48", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:42:13"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:42:13", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:43:10"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:43:10", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:43:41"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:43:41", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:44:28"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:44:28", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:44:59"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:44:59", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:45:30"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:45:30", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:46:01"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:46:01", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:46:32"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:46:32", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:47:03"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:47:03", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:47:34"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:47:34", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:48:05"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:48:05", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:48:35"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:48:35", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:49:06"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:49:06", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:49:37"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:49:37", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:50:07"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:50:07", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:50:38"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:50:38", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:51:12"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:51:12", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:51:43"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:51:43", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:52:13"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:52:13", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:52:44"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:52:44", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:53:14"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:53:14", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:53:45"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:53:45", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:54:14"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:54:14", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:55:03"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:55:03", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:55:33"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:55:33", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:56:05"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:56:05", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:56:37"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:56:37", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:57:22"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:57:22", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:57:53"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:57:53", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:58:24"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:58:24", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:58:54"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:58:54", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:59:25"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:59:25", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 15:59:55"}}
-{"City": "Catania", "Schedule": "2022-06-20 15:59:55", "Temperature": 27, "Humidity": 60, "Wind": 12, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 16:00:26"}}
-{"City": "Catania", "Schedule": "2022-06-20 16:00:26", "Temperature": 27.0, "Humidity": 60.0, "Wind": 12.0, "Visibility": 10.0, "Pressure": 1015.0, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:31:25"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:31:25", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:31:56"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:31:56", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:32:27"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:32:27", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:33:18"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:33:18", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:33:50"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:33:50", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:34:20"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:34:20", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:34:51"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:34:51", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:35:21"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:35:21", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:35:52"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:35:52", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:36:22"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:36:22", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:36:53"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:36:53", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:37:24"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:37:24", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:37:54"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:37:54", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:38:25"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:38:25", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:38:56"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:38:56", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:39:26"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:39:26", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:39:57"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:39:57", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:40:27"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:40:27", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:40:58"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:40:58", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:41:28"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:41:28", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:41:58"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:41:58", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:42:29"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:42:29", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:43:00"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:43:00", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:43:31"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:43:31", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:44:02"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:44:02", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:44:32"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:44:32", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:45:03"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:45:03", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:45:33"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:45:33", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:46:04"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:46:04", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:46:35"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:46:35", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:47:05"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:47:05", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:47:36"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:47:36", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:48:06"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:48:06", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:48:37"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:48:37", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:49:08"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:49:08", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:49:38"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:49:38", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:50:08"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:50:08", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:50:39"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:50:39", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:51:09"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:51:09", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:51:40"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:51:40", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:52:11"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:52:11", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:52:53"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:52:53", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:53:24"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:53:24", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:53:54"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:53:54", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:54:24"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:54:24", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:54:55"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:54:55", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:55:25"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:55:25", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:56:02"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:56:02", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:56:32"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:56:32", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:57:07"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:57:07", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 17:57:39"}}
-{"City": "Catania", "Schedule": "2022-06-20 17:57:39", "Temperature": 27, "Humidity": 60, "Wind": 10, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 18:21:12"}}
-{"City": "Catania", "Schedule": "2022-06-20 18:21:12", "Temperature": 27, "Humidity": 60, "Wind": 9, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 18:21:42"}}
-{"City": "Catania", "Schedule": "2022-06-20 18:21:42", "Temperature": 27, "Humidity": 60, "Wind": 9, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 18:22:23"}}
-{"City": "Catania", "Schedule": "2022-06-20 18:22:23", "Temperature": 27, "Humidity": 60, "Wind": 9, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 18:22:54"}}
-{"City": "Catania", "Schedule": "2022-06-20 18:22:54", "Temperature": 27, "Humidity": 60, "Wind": 9, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
-{"index": {"_id": "2022-06-20 18:23:25"}}
-{"City": "Catania", "Schedule": "2022-06-20 18:23:25", "Temperature": 27, "Humidity": 60, "Wind": 9, "Visibility": 10, "Pressure": 1015, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-28 17:43:57"}}
+{"City": "Catania", "Schedule": "2022-06-28 17:43:57", "Temperature": 33, "Humidity": 37, "Wind": 10, "Visibility": 10, "Pressure": 1013, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-28 17:44:47"}}
+{"City": "Catania", "Schedule": "2022-06-28 17:44:47", "Temperature": 33, "Humidity": 37, "Wind": 10, "Visibility": 10, "Pressure": 1013, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 11:47:19"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:47:19", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:48:23"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:48:23", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:49:06"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:49:06", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:49:36"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:49:36", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:50:28"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:50:28", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:51:40"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:51:40", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:52:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:52:11", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:52:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:52:50", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:53:25"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:53:25", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:54:01"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:54:01", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:54:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:54:34", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:56:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:56:03", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:56:39"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:56:39", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:57:09"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:57:09", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:58:18"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:58:18", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 11:58:48"}}
+{"City": "Catania", "Schedule": "2022-06-29 11:58:48", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 12:00:13"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:00:13", "Temperature": 32, "Humidity": 45, "Wind": 6, "Visibility": 10, "Pressure": 1012, "Condition": ""}
+{"index": {"_id": "2022-06-29 12:01:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:01:11", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:01:41"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:01:41", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:02:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:02:11", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:02:46"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:02:46", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:03:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:03:34", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:04:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:04:08", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:04:41"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:04:41", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:05:31"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:05:31", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:06:18"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:06:18", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:07:13"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:07:13", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:08:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:08:08", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:08:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:08:53", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:09:48"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:09:48", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:10:18"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:10:18", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:10:57"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:10:57", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:12:19"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:12:19", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:12:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:12:52", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:13:26"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:13:26", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:13:56"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:13:56", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:14:26"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:14:26", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:15:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:15:08", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:15:48"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:15:48", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:16:59"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:16:59", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:17:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:17:42", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:18:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:18:21", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:18:51"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:18:51", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:19:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:19:21", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:19:58"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:19:58", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:20:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:20:34", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:21:10"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:21:10", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:21:40"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:21:40", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:22:44"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:22:44", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:23:14"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:23:14", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:23:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:23:50", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:24:33"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:24:33", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:25:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:25:21", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:25:56"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:25:56", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:26:29"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:26:29", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:27:02"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:27:02", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:27:44"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:27:44", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:28:30"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:28:30", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:29:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:29:04", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:29:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:29:50", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:30:32"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:30:32", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:31:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:31:08", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:32:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:32:04", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:32:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:32:34", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:33:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:33:04", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:33:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:33:34", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:34:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:34:04", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:34:38"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:34:38", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:35:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:35:08", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:35:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:35:50", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:36:26"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:36:26", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:36:57"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:36:57", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:37:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:37:42", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:39:10"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:39:10", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:39:40"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:39:40", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:40:23"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:40:23", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:40:59"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:40:59", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:41:38"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:41:38", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:42:17"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:42:17", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:42:57"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:42:57", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:43:30"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:43:30", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:44:12"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:44:12", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:44:45"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:44:45", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:45:37"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:45:37", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:46:22"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:46:22", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:46:56"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:46:56", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:47:35"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:47:35", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:48:32"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:48:32", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:49:12"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:49:12", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:49:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:49:42", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:50:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:50:21", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:50:55"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:50:55", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:51:25"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:51:25", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:52:01"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:52:01", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:52:47"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:52:47", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:53:20"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:53:20", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:54:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:54:08", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:54:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:54:50", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:55:31"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:55:31", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:56:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:56:04", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:56:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:56:34", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 12:57:07"}}
+{"City": "Catania", "Schedule": "2022-06-29 12:57:07", "Temperature": 33, "Humidity": 40, "Wind": 6, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:39:43"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:39:43", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:40:19"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:40:19", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:40:49"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:40:49", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:42:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:42:08", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:42:38"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:42:38", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:43:17"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:43:17", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:44:18"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:44:18", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:44:48"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:44:48", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:45:37"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:45:37", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:46:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:46:53", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:47:23"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:47:23", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:47:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:47:53", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:48:33"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:48:33", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:49:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:49:03", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:49:39"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:49:39", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:50:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:50:34", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:51:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:51:04", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:51:43"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:51:43", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:52:35"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:52:35", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:53:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:53:11", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:53:41"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:53:41", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:54:23"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:54:23", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:54:54"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:54:54", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:55:27"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:55:27", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:56:19"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:56:19", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:57:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:57:11", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:57:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:57:50", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:58:20"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:58:20", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:58:51"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:58:51", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 13:59:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 13:59:21", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:00:25"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:00:25", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:01:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:01:21", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:01:54"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:01:54", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:03:05"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:03:05", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:03:36"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:03:36", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:04:13"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:04:13", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:05:40"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:05:40", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:06:24"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:06:24", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:07:00"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:07:00", "Temperature": 33, "Humidity": 51, "Wind": 10, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:07:36"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:07:36", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:08:28"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:08:28", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:09:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:09:11", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:09:50"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:09:50", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:10:51"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:10:51", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:11:22"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:11:22", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:12:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:12:04", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:12:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:12:52", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:13:44"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:13:44", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:14:32"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:14:32", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:15:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:15:08", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:15:51"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:15:51", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:16:27"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:16:27", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:17:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:17:03", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:17:41"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:17:41", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:18:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:18:11", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:19:24"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:19:24", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:20:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:20:03", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:20:43"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:20:43", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:21:23"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:21:23", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:21:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:21:53", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:22:33"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:22:33", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:23:10"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:23:10", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:23:40"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:23:40", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:24:13"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:24:13", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:24:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:24:52", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:25:22"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:25:22", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:26:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:26:03", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:26:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:26:42", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:27:28"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:27:28", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:28:11"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:28:11", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:28:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:28:53", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:29:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:29:42", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:30:45"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:30:45", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:31:49"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:31:49", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:32:40"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:32:40", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:33:10"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:33:10", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:33:44"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:33:44", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:34:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:34:52", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:35:46"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:35:46", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:36:29"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:36:29", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:37:29"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:37:29", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:38:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:38:03", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:38:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:38:42", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:39:15"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:39:15", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:39:45"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:39:45", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:40:24"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:40:24", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:41:25"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:41:25", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:42:29"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:42:29", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:42:59"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:42:59", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:44:02"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:44:02", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:44:39"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:44:39", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:45:33"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:45:33", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:46:32"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:46:32", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:47:15"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:47:15", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:47:48"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:47:48", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:49:01"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:49:01", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:49:49"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:49:49", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:50:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:50:34", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:51:04"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:51:04", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:51:37"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:51:37", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:52:07"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:52:07", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:52:44"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:52:44", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:53:44"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:53:44", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:54:14"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:54:14", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:55:00"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:55:00", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:55:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:55:52", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:56:35"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:56:35", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:57:45"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:57:45", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:58:15"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:58:15", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:58:51"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:58:51", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 14:59:30"}}
+{"City": "Catania", "Schedule": "2022-06-29 14:59:30", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:00:03"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:00:03", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:00:46"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:00:46", "Temperature": 33, "Humidity": 48, "Wind": 13, "Visibility": 10, "Pressure": 1011, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:01:43"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:01:43", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:02:19"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:02:19", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:03:17"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:03:17", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:03:57"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:03:57", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:04:27"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:04:27", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:05:06"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:05:06", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:05:51"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:05:51", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:06:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:06:34", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:08:05"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:08:05", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:08:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:08:53", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:09:23"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:09:23", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:09:53"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:09:53", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:10:33"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:10:33", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:11:12"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:11:12", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:11:48"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:11:48", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:13:01"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:13:01", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:13:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:13:34", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:30:46"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:30:46", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:31:20"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:31:20", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:32:27"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:32:27", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:32:57"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:32:57", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:33:30"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:33:30", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:34:22"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:34:22", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:35:13"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:35:13", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:36:12"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:36:12", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:36:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:36:42", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:37:18"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:37:18", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:38:10"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:38:10", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:38:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:38:52", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:39:35"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:39:35", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:40:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:40:08", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:40:38"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:40:38", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:41:08"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:41:08", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:41:38"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:41:38", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:42:12"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:42:12", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:42:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:42:42", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:43:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:43:21", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:43:52"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:43:52", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:44:35"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:44:35", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:45:21"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:45:21", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:45:57"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:45:57", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:46:27"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:46:27", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:47:25"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:47:25", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:47:55"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:47:55", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:48:28"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:48:28", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:49:42"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:49:42", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:50:36"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:50:36", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:51:22"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:51:22", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:51:58"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:51:58", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}
+{"index": {"_id": "2022-06-29 15:52:34"}}
+{"City": "Catania", "Schedule": "2022-06-29 15:52:34", "Temperature": 32, "Humidity": 58, "Wind": 15, "Visibility": 10, "Pressure": 1010, "Condition": "SERENO O NUBI NON SIGNIFICATIVE"}

@@ -36,6 +36,7 @@ def meteo():
         try:
             page = requests.get(url_data, timeout=20)
             while (page.status_code != 200):
+                time.sleep(3)
                 page = requests.get(url_data, timeout=20)
         except:
             time.sleep(3)
@@ -47,7 +48,6 @@ def meteo():
         
         time.sleep(int(time_schedule))
         #driver.refresh()
-        
 
 def send_datas(soup):  #(driver, cnd, tmp, hmd, prs, vsb, wnd):
     

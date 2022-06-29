@@ -4,7 +4,6 @@ import random
 from fluent import sender
 from fluent import event
 
-time_schedule = 60000
 cond = ["SERENO", "NUVOLOSO", "PIOGGIA"]
 
 def meteo():

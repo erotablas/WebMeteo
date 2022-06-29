@@ -9106,3 +9106,17 @@
 {"City": "Catania", "Day": "2022-03-31", "TempAvg": "16", "TempMin": "13", "TempMax": "18", "Humidity": "86", "Visibility": "11", "WindAvg": "14", "WindMax": "30", "Pressure": "1000"}
 {"index": {"_id": "2022-06-20"}}
 {"City": "Catania", "Day": "2022-06-20", "TempAvg": "27", "TempMin": "27", "TempMax": "28", "Humidity": "60", "Visibility": "10", "WindAvg": "11", "WindMax": "12", "Pressure": "1015"}
+{"index": {"_id": "2022-06-22"}}
+{"City": "Catania", "Day": "2022-06-22", "TempAvg": "27", "TempMin": "19", "TempMax": "35", "Humidity": "49", "Visibility": "10", "WindAvg": "14", "WindMax": "24", "Pressure": "1013"}
+{"index": {"_id": "2022-06-23"}}
+{"City": "Catania", "Day": "2022-06-23", "TempAvg": "28", "TempMin": "22", "TempMax": "36", "Humidity": "43", "Visibility": "10", "WindAvg": "12", "WindMax": "28", "Pressure": "1013"}
+{"index": {"_id": "2022-06-24"}}
+{"City": "Catania", "Day": "2022-06-24", "TempAvg": "29", "TempMin": "23", "TempMax": "34", "Humidity": "40", "Visibility": "10", "WindAvg": "16", "WindMax": "28", "Pressure": "1013"}
+{"index": {"_id": "2022-06-25"}}
+{"City": "Catania", "Day": "2022-06-25", "TempAvg": "34", "TempMin": "30", "TempMax": "37", "Humidity": "28", "Visibility": "10", "WindAvg": "6", "WindMax": "10", "Pressure": "1014"}
+{"index": {"_id": "2022-06-26"}}
+{"City": "Catania", "Day": "2022-06-26", "TempAvg": "31", "TempMin": "26", "TempMax": "33", "Humidity": "39", "Visibility": "10", "WindAvg": "11", "WindMax": "11", "Pressure": "1015"}
+{"index": {"_id": "2022-06-28"}}
+{"City": "Catania", "Day": "2022-06-28", "TempAvg": "33", "TempMin": "33", "TempMax": "33", "Humidity": "37", "Visibility": "10", "WindAvg": "10", "WindMax": "10", "Pressure": "1013"}
+{"index": {"_id": "2022-06-29"}}
+{"City": "Catania", "Day": "2022-06-29", "TempAvg": "33", "TempMin": "32", "TempMax": "33", "Humidity": "48", "Visibility": "10", "WindAvg": "10", "WindMax": "15", "Pressure": "1011"}
